@@ -1,1 +1,2 @@
 # hijibiji
+welcome hijibiji.com
